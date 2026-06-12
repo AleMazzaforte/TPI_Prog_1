@@ -1,0 +1,194 @@
+nombre,poblacion,superficie,continente
+"afganistan",40754388,652230,"asia"
+albania,2842321,28748,europa
+alemania,83149300,357022,europa
+andorra,77543,468,europa
+angola,34795287,1246700,africa
+antigua y barbuda,93219,443,america
+arabia saudita,35013414,2149690,asia
+argelia,44616624,2381741,africa
+argentina,45376763,2780400,america
+armenia,2971966,29743,asia
+australia,25921000,7692024,oceania
+austria,9027999,83871,europa
+azerbaiyan,10139177,86600,asia
+bahamas,393244,13943,america
+barein,1701575,765,asia
+bangladesh,169356251,147570,asia
+barbados,281200,430,america
+belgica,11590000,30528,europa
+belice,397628,22966,america
+benin,12451040,112622,africa
+bielorrusia,9442862,207600,europa
+bolivia,11513100,1098581,america
+bosnia y herzegovina,3280819,51197,europa
+botsuana,2630296,581730,africa
+brasil,213993437,8515767,america
+brunei,459500,5765,asia
+bulgaria,6520314,110879,europa
+burkina faso,21510181,274200,africa
+burundi,11890784,27834,africa
+butan,771608,38394,asia
+cabo verde,561901,4033,africa
+camboya,16718965,181035,asia
+camerun,26545863,475442,africa
+canada,38008005,9984670,america
+catar,2930524,11586,asia
+chad,16818391,1284000,africa
+chile,19116201,756102,america
+china,1412600000,9596960,asia
+chipre,1207359,9251,europa
+colombia,51265844,1141748,america
+comoras,888451,1862,africa
+congo,5797805,342000,africa
+corea del norte,25971909,120538,asia
+corea del sur,51744876,100210,asia
+costa rica,5153957,51100,america
+costa de marfil,27053629,322463,africa
+croacia,3899000,56594,europa
+cuba,11317505,109884,america
+dinamarca,5873381,43094,europa
+dominica,71808,751,america
+ecuador,17797737,283561,america
+egipto,102334404,1002450,africa
+el salvador,6486205,21041,america
+emiratos arabes unidos,9890402,83600,asia
+eritrea,3546421,117600,africa
+eslovaquia,5459642,49035,europa
+eslovenia,2107180,20273,europa
+espana,47351567,505990,europa
+estados unidos,331002651,9833517,america
+estonia,1326590,45228,europa
+esuatini,1160164,17364,africa
+etiopia,117876227,1104300,africa
+filipinas,109581078,300000,asia
+finlandia,5530719,338145,europa
+fiyi,896445,18274,oceania
+francia,67391582,551695,europa
+gabon,2225734,267668,africa
+gambia,2416668,11295,africa
+georgia,3989167,69700,europa
+ghana,31072940,238533,africa
+granada,112519,344,america
+grecia,10718565,131957,europa
+guatemala,17109746,108889,america
+guinea,13132795,245857,africa
+guinea-bisau,1968001,36125,africa
+guinea ecuatorial,1402985,28051,africa
+guyana,786552,214969,america
+haiti,11402528,27750,america
+honduras,9904607,112492,america
+hungria,9660351,93028,europa
+india,1380004385,3287263,asia
+indonesia,273523615,1904569,asia
+irak,40222493,438317,asia
+iran,83992949,1648195,asia
+irlanda,4994724,70273,europa
+islandia,341243,103000,europa
+islas marshall,41569,181,oceania
+islas salomon,686884,28896,oceania
+israel,9216900,20770,asia
+italia,60461826,301340,europa
+jamaica,2961167,10991,america
+japon,125800000,377975,asia
+jordania,10203134,89342,asia
+kazajistan,18776707,2724900,asia
+kenia,53771296,580367,africa
+kirguistan,6524195,199951,asia
+kiribati,119449,811,oceania
+kuwait,4270563,17818,asia
+laos,7275560,236800,asia
+lesoto,2142249,30355,africa
+letonia,1886198,64589,europa
+libano,6825445,10452,asia
+liberia,5057681,111369,africa
+libia,6871292,1759540,africa
+liechtenstein,38128,160,europa
+lituania,2722289,65300,europa
+luxemburgo,632275,2586,europa
+madagascar,27691018,587041,africa
+malasia,32365999,329847,asia
+malaui,19129952,118484,africa
+maldivas,540544,298,asia
+mali,22395489,1240192,africa
+malta,514564,316,europa
+marruecos,36910560,446550,africa
+mauricio,1271768,2040,africa
+mauritania,4649658,1030700,africa
+mexico,128932753,1964375,america
+micronesia,115023,702,oceania
+moldavia,2617820,33846,europa
+monaco,39242,2,europa
+mongolia,3278290,1564116,asia
+montenegro,622137,13812,europa
+mozambique,31255435,801590,africa
+namibia,2540905,824292,africa
+nauru,10824,21,oceania
+nepal,29136808,147181,asia
+nicaragua,6624554,130373,america
+niger,24206644,1267000,africa
+nigeria,206139589,923768,africa
+noruega,5421241,323802,europa
+nueva zelanda,5002100,270467,oceania
+oman,4520471,309500,asia
+paises bajos,17441139,41543,europa
+pakistan,220892340,881913,asia
+palaos,18094,459,oceania
+panama,4351267,75417,america
+papua nueva guinea,8947024,462840,oceania
+paraguay,7132538,406752,america
+peru,32971854,1285216,america
+polonia,37950802,312696,europa
+portugal,10305564,92212,europa
+reino unido,67886011,243610,europa
+republica centroafricana,4829767,622984,africa
+republica checa,10708981,78866,europa
+republica del congo,5518087,342000,africa
+republica democratica del congo,89561403,2344858,africa
+republica dominicana,10847910,48671,america
+republica macedonica del norte,2083374,25713,europa
+ruanda,12952218,26338,africa
+rumania,19237691,238397,europa
+rusia,145934462,17098242,europa
+samoa,198414,2842,oceania
+san cristobal y nieves,53199,261,america
+san marino,33931,61,europa
+san vicente y las granadinas,110940,389,america
+santa lucia,183627,616,america
+santo tome y principe,219159,964,africa
+senegal,16743927,196722,africa
+serbia,6804596,77474,europa
+seychelles,98347,455,africa
+sierra leona,7976983,71740,africa
+singapur,5850342,728,asia
+ciria,17500658,185180,asia
+somalia,15893222,637657,africa
+sri lanka,21919000,65610,asia
+sudafrica,59308690,1219090,africa
+sudan,43849260,1861484,africa
+sudan del sur,11193725,619745,africa
+suecia,10099265,450295,europa
+suiza,8654622,41285,europa
+surinam,586632,163820,america
+tailandia,69799978,513120,asia
+tanzania,59734218,945087,africa
+tayikistan,9537645,143100,asia
+timor oriental,1318445,14874,asia
+togo,8278724,56785,africa
+tonga,100651,747,oceania
+trinidad y tobago,1399488,5130,america
+tunez,11818619,163610,africa
+turkmenistan,6031187,488100,asia
+turquia,84339067,783562,asia
+tuvalu,11792,26,oceania
+ucrania,43733762,603550,europa
+uganda,45741007,241550,africa
+uruguay,3473730,176215,america
+uzbekistan,34915100,447400,asia
+vanuatu,307145,12189,oceania
+venezuela,28435943,912050,america
+vietnam,97338579,331212,asia
+yemen,29825964,527968,asia
+yibuti,988000,23200,africa
+zambia,18383955,752618,africa
+zimbabue,14862924,390757,africa
