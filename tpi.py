@@ -8,16 +8,11 @@ import csv
 def importar_datos():
     with open('paises.csv', 'r', encoding='utf-8') as file:
         archivo_paises = csv.reader(file)
-        cabecera = next(archivo_paises)  # lee la primera fila
         
         lista_diccionario_paises = []
         
         for fila in archivo_paises:
-            # nombre = fila[0]
-            # poblacion = int(fila[1])      
-            # superficie = int(fila[2])     
-            # continente = fila[3]
-            lista_diccionario_paises.append({"nombre":fila[0], "poblacion": fila[1], "superficie": fila[2], "continente":[3]})
+            lista_diccionario_paises.append({"nombre":fila[0], "poblacion": int(fila[1]), "superficie": int(fila[2]), "continente":fila[3]})
         return lista_diccionario_paises
     
 def menu_principal():
